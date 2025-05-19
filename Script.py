@@ -367,14 +367,17 @@ Money heist S0E01
 sᴇᴀʀᴄʜ🔍 ᴍᴏᴠɪᴇ ᴀɢᴀɪɴ</u> ꜰʀᴏᴍ ɴᴏᴡ !</b>"""
     
     
-   NOT_AVAILABLE_TXT = """{} 📁 File dhoond rahe ho? Lagta hai file bhi soch rahi — "Main kyun hoon, kahan hoon, kaise hoon?" 🤔"""
+ NOT_AVAILABLE_TXT = """{}
 
-   SERIES_FORMAT_TXT = """{}❌ Bhai, format ka band baja diya tumne!
-✅ Sahi format dekh lo zara:
-👉 Money Heist S01E01  
-👉 Money Heist S01
-⚠️ Warna BOT bolega:  
-"Ye kya likh diya be, Google bhi confuse ho gaya!" 🤯"""
+ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛᴇᴅ ᴄᴏɴᴛᴇɴᴛ ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ"""
+
+    SERIES_FORMAT_TXT = """{}
+    
+ʏᴏᴜʀ ʀᴇǫᴜᴇsᴛ ғᴏʀᴍᴀᴛ ᴡʀᴏɴɢ❌ 
+ғᴏʟʟᴏᴡ ᴛʜɪs ғᴏʀᴍᴀᴛ 👇
+
+Money heist S01E01
+Money heist S01"""
 
     UPLOADED_TXT = """{}
     

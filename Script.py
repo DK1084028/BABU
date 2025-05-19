@@ -368,17 +368,14 @@ sᴇᴀʀᴄʜ🔍 ᴍᴏᴠɪᴇ ᴀɢᴀɪɴ</u> ꜰʀᴏᴍ ɴᴏᴡ !</b>"""
     
     
    NOT_AVAILABLE_TXT = """{}📁 File dhoond rahe ho? Lagta hai file bhi soch rahi Main kyun hoon, kahan hoon, kaise hoon? 🤔
+   🤖 BOT: "Yeh content to system se resign de chuka hai!" 😎"""
 
-🤖 BOT: "Yeh content to system se resign de chuka hai!" 😎  
-"""
-
-   SERIES_FORMAT_TXT = """{}❌ Bhai, format ka band baja diya tumne! 
+   SERIES_FORMAT_TXT = """{}❌ Bhai, format ka band baja diya tumne!
 ✅ Sahi format dekh lo zara:
 👉 Money Heist S01E01  
 👉 Money Heist S01
 ⚠️ Warna BOT bolega:  
-"Ye kya likh diya be, Google bhi confuse ho gaya!" 🤯
-"""
+"Ye kya likh diya be, Google bhi confuse ho gaya!" 🤯"""
 
     UPLOADED_TXT = """{}
     

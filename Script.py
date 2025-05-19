@@ -369,9 +369,7 @@ sᴇᴀʀᴄʜ🔍 ᴍᴏᴠɪᴇ ᴀɢᴀɪɴ</u> ꜰʀᴏᴍ ɴᴏᴡ !</b>"""
     
    NOT_AVAILABLE_TXT = """{}
 
-📁 *File dhoond rahe ho?*  
-Lagta hai file bhi soch rahi:  
-**"Main kyun hoon, kahan hoon, kaise hoon?"** 🤔
+📁 File dhoond rahe ho? Lagta hai file bhi soch rahi Main kyun hoon, kahan hoon, kaise hoon? 🤔
 
 🤖 BOT: "Yeh content to system se resign de chuka hai!" 😎  
 """

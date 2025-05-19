@@ -368,10 +368,7 @@ sᴇᴀʀᴄʜ🔍 ᴍᴏᴠɪᴇ ᴀɢᴀɪɴ</u> ꜰʀᴏᴍ ɴᴏᴡ !</b>"""
     
     
    NOT_AVAILABLE_TXT = """{}
-📁 File dhoond rahe ho? Lagta hai file bhi soch rahi —
-‘Main kyun hoon? Kahan hoon? Kaise hoon?’ 🤔
-
-Zara naam sahi likh bhai, ya fir dua kar file khud aa jaye! 😂"""
+📁 File dhoond rahe ho? Lagta hai file bhi soch rahi — "Main kyun hoon, kahan hoon, kaise hoon?" 🤔"""
 
    SERIES_FORMAT_TXT = """{}❌ Bhai, format ka band baja diya tumne!
 ✅ Sahi format dekh lo zara:
